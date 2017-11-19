@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String diretorioWebApp = "src/main/webapp";
+        String diretorioWebApp = "src/main/webapp/";
 
         Tomcat tomcat = new Tomcat();
 

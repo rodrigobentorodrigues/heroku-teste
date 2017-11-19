@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>postgresql</groupId>
-  <artifactId>postgresql</artifactId>
+  <groupId>com.heroku.exemplo</groupId>
+  <artifactId>testeheroku</artifactId>
   <versioning>
-    <release>9.0-801.jdbc4</release>
+    <release>1.0</release>
     <versions>
-      <version>9.0-801.jdbc4</version>
+      <version>1.0</version>
     </versions>
     <lastUpdated>20171119035521</lastUpdated>
   </versioning>
